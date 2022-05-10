@@ -37,16 +37,16 @@ Click here for my [Resume](https://docs.google.com/document/d/1rB5T8ZVgZjaT9AeXj
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-   <a href="https://vikrantraut-portfolio.netlify.app/" target="_blank" >
+   <a href="https://vikrantraut-portfolio.netlify.app/" target="blank" >
   <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Vikrant Raut" height="30" width="40" />
   </a>
-<a href="https://twitter.com/vikrant_vinayak" target="_blank" >
+<a href="https://twitter.com/vikrant_vinayak" target="blank" >
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="15VIKRANT" height="30" width="40" />
   </a>
-<a href="www.linkedin.com/in/vikrantraut" target="_blank">
+<a href="www.linkedin.com/in/vikrantraut" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="15VIKRANT" height="30" width="40" />
   </a>
-   <a href="https://www.instagram.com/15vvr1998/" target="_blank">
+   <a href="https://www.instagram.com/15vvr1998/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h1t3ndr4" height="30" width="40" />
   </a>
 </p>
