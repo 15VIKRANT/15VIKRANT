@@ -1,10 +1,10 @@
 <body>
 <div>
-<img align="center" src="https://private-user-images.githubusercontent.com/93037846/327746954-aff8c6bd-b7c2-45e4-b534-707d908931ef.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ3Mzc4NzgsIm5iZiI6MTcxNDczNzU3OCwicGF0aCI6Ii85MzAzNzg0Ni8zMjc3NDY5NTQtYWZmOGM2YmQtYjdjMi00NWU0LWI1MzQtNzA3ZDkwODkzMWVmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTAzVDExNTkzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmNDBjOTk3NTRhYTk1ZjYzZmYyZDYxYzZjNWQ2MDAyMjI5MTEyNDQ2OWMwOTlhZGFmZGU5ZmVlNmY2ZmEwNGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IT8zDe_ZmhfXnJw2nhrQxT_qDIVQYXDBhOKofC6F6nQ">
+<img align="center" src="https://private-user-images.githubusercontent.com/93037846/327747626-1bc00eeb-476b-4f40-86ec-ee1a8f4ee60d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ3MzgwNTQsIm5iZiI6MTcxNDczNzc1NCwicGF0aCI6Ii85MzAzNzg0Ni8zMjc3NDc2MjYtMWJjMDBlZWItNDc2Yi00ZjQwLTg2ZWMtZWUxYThmNGVlNjBkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTAzVDEyMDIzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiZTdjMGU5M2Y5MGQ0ZThkYmM0ZjcwN2MwM2E5NzYyNzAwNzgwNDZiNjdkMTFkNmE3MjFjYWFlNzJlNjhiNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6a8CnKse_aims1DhPYbwoja4GzjYLuB1VoeNV45vDVQ">
 </div>
 
 <h1 align="center">Hi 👋, I'm Vikrant Raut</h1>
-<h3 align="center">DevOps and Developer, with a passion for Learning new things in every aspect</h3>
+<h3 align="center">DevOps and Developer, with a passion for Learning new things in every field</h3>
 
 - 🌱 I’m currently learning **ELK, Kubernetes**
 
@@ -24,10 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kverma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kverma_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/verma-kunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="verma-kunal" height="30" width="40" /></a>
-<a href="https://hashnode.com/@kunalverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kunalverma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/verma-kunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="verma-kunal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikrantraut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="verma-kunal" height="30" width="40" /></a>
+<a href="https://vikrant15.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vikrant15" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@VIKRANT.RAUT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vikrant-raut" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Like my work? Consider supporting:</h3>
-<p><a href="https://www.buymeacoffee.com/vkunal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vkunal" /></a></p><br><br>
