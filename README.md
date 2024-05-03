@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **DevOps, Cloud, Open Source**
 
-- 💬 Ask me about **DevOps, Cloud, MERN, Datbases**
+- 💬 Ask me about **DevOps, Cloud, MERN, Databases**
 
 - 📫 How to reach me **vikrant.raut1998@gmail.com**
 
